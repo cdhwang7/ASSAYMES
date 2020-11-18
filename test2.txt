@@ -4,3 +4,4 @@ giAt@github.com:cdhwang7/ASSAYMES.gi
 LOCAL에서 수정하였습니다
 REMOTE에서 수정했습니다
 REMOTE에서 추가수정했습니다
+LOCAL에서 추가 수정을 했습니다...정말
