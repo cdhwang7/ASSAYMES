@@ -1,2 +1,3 @@
 giAt@github.com:cdhwang7/ASSAYMES.gi
 테스트입니다 테스트 입니다
+테스트2에추가보완했습니다
